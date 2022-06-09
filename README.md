@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dimas.fajar
 - 👀 I’m interested in developing application in ubuntu/debian linux and raspi
 - 🌱 I’m currently learning rust in rpi with d-bus
-- 💞️ I’m looking to collaborate on making web scraping applications with Qt, Cpp, Py and Rust
+- 💞️ I’m looking to collaborate on making web scraping applications with Qt, Cpp and Rust
 - 📫 How to reach me dimas.fajar@asml.com
 
 <!---
